@@ -1,4 +1,4 @@
-# Serverless Student Management System — AWS
+# Serverless Management System — AWS
 Serverless Student Management System
 
 A cloud-native serverless web application built using AWS services that allows users to add and retrieve student details through a web interface without managing any servers.
